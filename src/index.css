@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Truculenta:opsz,wght@12..72,100..900&family=Wix+Madefor+Text:ital,wght@0,400..800;1,400..800&display=swap');
+
+@layer base {
+    #banner {
+        background-image: url('./images/Neon Bongo cat.jpg');
+    }
+
+    .menu li {
+        color: #00120B;
+        font-weight: 500;
+    }
+    .menu li:hover {
+        transition: all .2s ease-out;
+        color: #032015;
+        margin-top: -10px;
+    }
+    .menu li.active {
+        color: #31E981;
+    }
+
+    .btn {
+        @apply bg-gray-dark text-white rounded-md px-4 py-1.5;
+    }
+}
+
+body {
+    font-family: 'Wix Madefor Text', 'sans-serif';
+    background-color: #EFEFEF;
+}
