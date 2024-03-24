@@ -7,7 +7,7 @@ function CerItem({name, image}) {
             </div>
 
             <div className="font-medium text-gray-dark text-base md:text-md">
-                <img src={image} alt={name} className="w-full rounded-lg" />
+                <img src={image} alt={name} className="w-full rounded-lg mt-3" />
             </div>
         </div>
     )
