@@ -8,6 +8,11 @@
     #banner {
         background-image: url('./images/Neon Bongo cat.jpg');
     }
+    @media (max-width: 768px) {
+        #banner {
+            background-image: url('./images/Neon Bongo cat mobile.jpg');
+        }
+    }
 
     .menu li {
         color: #00120B;
