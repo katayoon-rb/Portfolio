@@ -1,6 +1,6 @@
 function AboutMe({profileLink}) {
   return (
-    <div className='w-full py-20
+    <div className='w-full px-2 py-20
             flex flex-col lg:flex-row justify-center items-center'
             id="about-me"
         >
