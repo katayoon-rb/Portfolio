@@ -1,7 +1,7 @@
 import { getGithubUserContribution } from './UserContribution.ts'
 
 const data = await getGithubUserContribution('katayoon-rb', {
-    githubToken: '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',
+    githubToken: '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',
     year: 2024
 })
 
