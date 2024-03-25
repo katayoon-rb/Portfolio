@@ -18,7 +18,12 @@ module.exports = {
       'gray-light': '#D8E4FF',
       'neon': '#31E981',
       'cream': '#DCC9B6',
-      'white': '#FFFFFF'
+      'white': '#FFFFFF',
+      'grid-0': '#939090',
+      'grid-1': '#245501',
+      'grid-2': '#538d22',
+      'grid-3': '#73a942',
+      'grid-4': '#aad576'
     },
     fontFamily: {
       Truculenta: ['Truculenta', 'sans-serif'],
