@@ -30,6 +30,9 @@
     .btn {
         @apply bg-gray-dark text-white rounded-md px-4 py-1.5;
     }
+    .grid-sq {
+        @apply w-[10px] h-[10px] rounded-sm md:w-[15px] md:h-[15px] md:rounded;
+    }
 }
 
 body {
