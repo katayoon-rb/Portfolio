@@ -1,8 +1,7 @@
 export const getGithubUserContribution = async (
-  userName: string,
-  // o: { }
+  userName: string
 ) => {
-  const query = /* GraphQL */ `
+  const query = `
     query ($login: String!) {
       user(login: $login) {
         contributionsCollection {
@@ -19,29 +18,30 @@ export const getGithubUserContribution = async (
         }
       }
     }
-  `;
-  const variables = { login: userName };
+  `
+  
+  const variables = { login: userName }
   const res = await fetch("https://api.github.com/graphql", {
     headers: {
       Authorization: `bearer ${process.env.REACT_APP_GITHUB_TOKEN}`,
-      "Content-Type": "application/json",
+      "Content-Type": "application/json"
     },
     method: "POST",
-    body: JSON.stringify({ variables, query }),
-  });
+    body: JSON.stringify({ variables, query })
+  })
 
-  if (!res.ok) throw new Error(res.statusText);
+  if (!res.ok) throw new Error(res.statusText)
 
   const { data, errors } = (await res.json()) as {
-    data: GraphQLRes;
-    errors?: { message: string }[];
-  };
+    data: GraphQLRes
+    errors?: { message: string }[]
+  }
 
-  if (errors?.[0]) throw errors[0];
+  if (errors?.[0]) throw errors[0]
 
   return data.user.contributionsCollection.contributionCalendar.weeks.flatMap(
     ({ contributionDays }, x) =>
-      contributionDays.map((d) => ({
+      contributionDays.map(d => ({
         x,
         y: d.weekday,
         date: d.date,
@@ -51,10 +51,10 @@ export const getGithubUserContribution = async (
           (d.contributionLevel === "THIRD_QUARTILE" && 3) ||
           (d.contributionLevel === "SECOND_QUARTILE" && 2) ||
           (d.contributionLevel === "FIRST_QUARTILE" && 1) ||
-          0,
+          0
       }))
-  );
-};
+  )
+}
 
 type GraphQLRes = {
   user: {
@@ -62,22 +62,21 @@ type GraphQLRes = {
       contributionCalendar: {
         weeks: {
           contributionDays: {
-            contributionCount: number;
+            contributionCount: number
             contributionLevel:
               | "FOURTH_QUARTILE"
               | "THIRD_QUARTILE"
               | "SECOND_QUARTILE"
               | "FIRST_QUARTILE"
-              | "NONE";
-            date: string;
-            weekday: number;
-          }[];
-        }[];
-      };
-    };
-  };
-};
+              | "NONE"
+            date: string
+            weekday: number
+          }[]
+        }[]
+      }
+    }
+  }
+}
 
-export type Res = Awaited<ReturnType<typeof getGithubUserContribution>>;
-
-export type Cell = Res[number];
+export type Res = Awaited<ReturnType<typeof getGithubUserContribution>>
+export type Cell = Res[number]
