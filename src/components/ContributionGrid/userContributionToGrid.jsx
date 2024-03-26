@@ -1,9 +1,11 @@
 import { getGithubUserContribution } from './UserContribution.ts'
 
-const data = await getGithubUserContribution('katayoon-rb', {
-    githubToken: process.env.GITHUB_TOKEN,
-    year: 2024
-})
+const data = await getGithubUserContribution('katayoon-rb' )
+//                                              {
+//     githubToken: process.env.GITHUB_TOKEN,
+//     year: 2024
+// }
+                                            
 
 const grid = []
 for (let i = 0; i < 366; i += 7) {
