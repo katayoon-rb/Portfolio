@@ -20,6 +20,7 @@ function Courses() {
                     />
                 ))}
             </div>
+            <iframe title='test' id="frame" src="https://google.com"/>
         </div>
     )
 }
