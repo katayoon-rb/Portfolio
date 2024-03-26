@@ -1,6 +1,6 @@
 export const getGithubUserContribution = async (
   userName: string,
-  o: { githubToken: string = process.env.GITHUB_TOKEN }
+  o: { githubToken: string }
 ) => {
   const query = /* GraphQL */ `
     query ($login: String!) {
@@ -21,6 +21,7 @@ export const getGithubUserContribution = async (
     }
   `;
   const variables = { login: userName };
+  console.log(process.env.GITHUB_TOKEN)
 
   const res = await fetch("https://api.github.com/graphql", {
     headers: {
