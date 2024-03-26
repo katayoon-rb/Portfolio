@@ -1,4 +1,5 @@
-
+import { config } from "dotenv"
+config({ path: __dirname + "/../../../.env" })
 import { getGithubUserContribution } from './UserContribution.ts'
 
 const data = await getGithubUserContribution('katayoon-rb', {
