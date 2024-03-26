@@ -1,7 +1,7 @@
 import { getGithubUserContribution } from './UserContribution.ts'
 
 const data = await getGithubUserContribution('katayoon-rb', {
-    // githubToken: process.env.GITHUB_TOKEN,
+    githubToken: process.env.GITHUB_TOKEN,
     year: 2024
 })
 
