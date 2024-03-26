@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header className='w-full px-9 py-5 fixed z-20 bg-green
-        shadow-lg shadow-dark/50 hidden md:block'>
+          shadow-lg shadow-dark/50 hidden md:block'>
         <div className="menu">
           <ul className="flex justify-end items-center gap-7 text-lg">
             <li>
@@ -15,6 +15,9 @@ function Header() {
             </li>
             <li>
               <a href="#courses">Courses</a>
+            </li>
+            <li>
+              <a href="#projects">Projects</a>
             </li>
             <li>
               <a href="#certificates">Certificates</a>
