@@ -21,7 +21,7 @@ export const getGithubUserContribution = async (
     }
   `;
   const variables = { login: userName };
-
+console.log(o.githubToken)
   const res = await fetch("https://api.github.com/graphql", {
     headers: {
       Authorization: `bearer ${o.githubToken}`,
