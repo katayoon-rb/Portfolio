@@ -14,17 +14,13 @@
         }
     }
 
-    .menu li {
-        color: #00120B;
+    .menu li, .goBack {
+        color: #EFEFEF;
         font-weight: 500;
     }
-    .menu li:hover {
+    .menu li:hover, .goBack:hover {
         transition: all .2s ease-out;
         color: #032015;
-        margin-top: -10px;
-    }
-    .menu li.active {
-        color: #31E981;
     }
 
     .btn {
@@ -38,4 +34,16 @@
 body {
     font-family: 'Wix Madefor Text', 'sans-serif';
     background-color: #EFEFEF;
+}
+
+embed {
+    width: 90%;
+    pointer-events: none;
+}
+
+#select-skill label {
+    cursor: pointer;
+    background-color: #35605a29;
+    padding: .5rem 1rem;
+    border-radius: 1rem;
 }
