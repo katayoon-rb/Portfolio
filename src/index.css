@@ -39,12 +39,3 @@ body {
     font-family: 'Wix Madefor Text', 'sans-serif';
     background-color: #EFEFEF;
 }
-
-#frame {
-    border: 10px solid blue;
-    width: 500px;
-    height: 500px;
-    pointer-events: none;
-    transform: translate(-200px, -200px) scale(.2, .2);
-    overflow: hidden;
-}
