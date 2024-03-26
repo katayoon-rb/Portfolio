@@ -1,12 +1,6 @@
 import { getGithubUserContribution } from './UserContribution.ts'
 
-const data = await getGithubUserContribution('katayoon-rb' )
-//                                              {
-//     githubToken: process.env.GITHUB_TOKEN,
-//     year: 2024
-// }
-                                            
-
+const data = await getGithubUserContribution('katayoon-rb')
 const grid = []
 for (let i = 0; i < 366; i += 7) {
     if (i === 364) {
@@ -18,7 +12,6 @@ for (let i = 0; i < 366; i += 7) {
             data[i + 3], data[i + 4], data[i + 5], data[i + 6]
         ]) 
     }
-    
 }
 
 function UserContributionToGrid() {
