@@ -1,6 +1,6 @@
 export const getGithubUserContribution = async (
   userName: string,
-  o: { githubToken: string }
+  // o: { }
 ) => {
   const query = /* GraphQL */ `
     query ($login: String!) {
@@ -21,12 +21,9 @@ export const getGithubUserContribution = async (
     }
   `;
   const variables = { login: userName };
-  console.log(process.env.REACT_APP_GITHUB_TOKEN)
-  console.log(process.env)
-
   const res = await fetch("https://api.github.com/graphql", {
     headers: {
-      Authorization: `bearer ${o.githubToken}`,
+      Authorization: `bearer ${process.env.REACT_APP_GITHUB_TOKEN}`,
       "Content-Type": "application/json",
     },
     method: "POST",
