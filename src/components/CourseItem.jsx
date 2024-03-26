@@ -1,9 +1,9 @@
 function CourseItem({title, info, links, end}) {
     return (
-        <div className="bg-white px-10 py-8 rounded-lg text-center w-full
+        <div className="bg-white px-10 py-6 rounded-lg text-center w-full
         flex flex-col gap-5 justify-between">
             <div>
-                <div className="font-Truculenta font-bold text-cream text-3xl">
+                <div className="font-Truculenta font-bold text-green text-4xl">
                     {title}
                 </div>
 
@@ -16,7 +16,7 @@ function CourseItem({title, info, links, end}) {
             
             <div className="flex flex-col gap-2">
                 {Object.keys(links).map(key => (
-                    <button className="btn" key={key}>
+                    <button className="btn bg-cream text-dark" key={key}>
                         <a href={links[key]}>{key}</a>
                     </button>
                 ))}
