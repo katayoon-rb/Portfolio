@@ -8,7 +8,7 @@ for (let i = 0; i < 6; i++) {
 
 function Projects() {
     return (
-        <div id="projects" className='pb-20 text-center'>
+        <div id="projects" className='pt-20 text-center'>
             <h3 className="font-Truculenta text-dark mb-10 text-5xl md:text-6xl">
                 Projects
             </h3>
