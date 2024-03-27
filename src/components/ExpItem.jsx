@@ -12,7 +12,7 @@ function ExpItem({name, info, position, website, duration}) {
 
             <div className="-mt-2 text-gray-dark">________________________</div>
 
-            <div className="text-neon font-bold text-lg mt-3">{position}</div>
+            <div className="text-green font-bold text-md mt-3">{position}</div>
             <div className="text-gray-dark text-sm">{duration}</div>
 
             {website && 
