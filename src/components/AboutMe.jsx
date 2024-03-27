@@ -2,7 +2,7 @@ import GithubStatus from './GithubStatus.jsx'
 
 function AboutMe({profileLink}) {
   return (
-    <div className='py-28'>
+    <div className='pt-28 py-14'>
         <div id="about-me"
             className='w-full px-8 flex flex-col lg:flex-row justify-center items-center'
         >
