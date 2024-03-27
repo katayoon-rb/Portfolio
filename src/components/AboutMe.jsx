@@ -7,8 +7,7 @@ function AboutMe({profileLink}) {
             className='w-full px-8 flex flex-col lg:flex-row justify-center items-center'
         >
             <img src={profileLink} alt="Katayoon Rabbani"
-                className="rounded-full z-10 shadow-lg shadow-dark/50
-                    w-[300px] lg:w-[400px]"
+                className="rounded-full z-10 w-[300px] lg:w-[400px]"
             />
 
             <div className="bg-white rounded-xl p-10
