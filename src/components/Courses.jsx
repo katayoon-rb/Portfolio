@@ -8,7 +8,7 @@ for (let i = 0; i < 6; i++) {
 
 function Courses() {
     return (
-        <div id="courses" className='py-16 pb-20 text-center'>
+        <div id="courses" className='py-20 text-center'>
             <h3 className="font-Truculenta text-dark mb-10
                     text-5xl md:text-6xl">
                 Courses
