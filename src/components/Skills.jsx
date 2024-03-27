@@ -3,7 +3,7 @@ import skillsArr from '../data/skills.js'
 
 function Skills() {
     return (
-        <div id="skills" className='pt-3 pb-20'>
+        <div id="skills" className='pb-20 pt-24'>
             <h3 className="font-Truculenta text-dark mb-10
                     text-5xl md:text-6xl text-center">
                 Skills
