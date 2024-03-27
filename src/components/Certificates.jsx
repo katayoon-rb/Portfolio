@@ -15,6 +15,7 @@ function Certificates() {
                         key={cer.name}
                         name={cer.name}
                         image={cer.image}
+                        link={cer.link}
                     />
                 ))}
             </div>
