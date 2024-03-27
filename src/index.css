@@ -23,6 +23,13 @@
         color: #032015;
     }
 
+    footer a:hover svg {
+        fill: #efefef9c;
+    }
+    footer a:hover p {
+        color: #efefef9c
+    }
+
     .btn {
         @apply bg-gray-dark text-white rounded-md px-4 py-1.5;
     }
