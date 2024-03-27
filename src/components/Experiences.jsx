@@ -3,7 +3,7 @@ import experiencesArr from '../data/experience.js'
 
 function Experiences() {
     return (
-        <div id="experiences" className="bg-white py-14 shadow-md shadow-dark/20">
+        <div id="experiences" className="bg-white py-28 shadow-md shadow-dark/20">
             <h3 className="font-Truculenta text-dark mb-10
                     text-5xl md:text-6xl text-center">
                 Experiences
