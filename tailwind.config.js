@@ -19,11 +19,11 @@ module.exports = {
       'neon': '#31E981',
       'cream': '#DCC9B6',
       'white': '#FFFFFF',
-      'grid-0': '#939090',
-      'grid-1': '#245501',
-      'grid-2': '#538d22',
-      'grid-3': '#73a942',
-      'grid-4': '#aad576'
+      'grid-0': '#9b999993',
+      'grid-1': '#2d6a4f',
+      'grid-2': '#52b788',
+      'grid-3': '#95d5b2',
+      'grid-4': '#b7e4c7'
     },
     fontFamily: {
       Truculenta: ['Truculenta', 'sans-serif'],
