@@ -11,8 +11,9 @@ function Skills() {
             </h3>
             <div className='grid px-20 md:grid-cols-2 lg:grid-cols-4 gap-x-16 gap-y-10'>
                 {stateAll.map(state => (
-                    <div className='bg-white rounded-lg text-center px-4 py-5
-                            min-w-[200px]'>
+                    <div key={state}
+                        className='bg-white rounded-lg text-center px-4 py-5 min-w-[200px]'
+                    >
                         <h5 className='font-Truculenta font-bold text-green mb-3
                                 border-b-2 border-green text-2xl md:text-3xl'>
                             {state}
