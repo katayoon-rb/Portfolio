@@ -2,9 +2,13 @@ import { getGithubUserContribution } from './UserContribution.ts'
 
 const data = await getGithubUserContribution('katayoon-rb')
 const grid = []
-for (let i = 0; i < 366; i += 7) {
+for (let i = 0; i < data.length; i += 7) {
     if (i === 364) {
-        grid.push([ data[i], data[i + 1] ])
+        let thisArr = []
+        for (let j = 0; j < data.length - 364; j++) {
+            thisArr.push(data[i + j])
+        }
+        grid.push(thisArr)
     }
     else {
        grid.push([
