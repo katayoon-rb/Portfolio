@@ -6,6 +6,7 @@
 
 @layer base {
     #banner {
+        background-color: #01120C;
         background-image: url('./images/Neon Bongo cat.jpg');
     }
     @media (max-width: 768px) {
