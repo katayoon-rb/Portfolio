@@ -13,16 +13,16 @@ const courseArr = [
     // },
 
     // ONGOING
-    // {
-    //     'Title': 'Ultimate Next.js 13 Course',
-    //     'Info': 'Escape the shallow content & dive deep into the hottest tech of 2024',
-    //     'Links': {
-    //         'My Implementation': 'https://github.com/katayoon-rb/Ultimate-Next.js-Course',
-    //         'The Course': 'https://www.jsmastery.pro/ultimate-next13-course',
-    //     },
-    //     'Tags': [],     
-    //     'End': ''
-    // },
+    {
+        'Title': 'Ultimate Next.js 13 Course',
+        'Info': 'Escape the shallow content & dive deep into the hottest tech of 2024',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Ultimate-Next.js-Course',
+            'The Course': 'https://www.jsmastery.pro/ultimate-next13-course',
+        },
+        'Tags': [],     
+        'End': ''
+    },
     {
         'Title': 'CSS Battle',
         'Info': 'Daily Targets & Battles - HTML/CSS',
