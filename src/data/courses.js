@@ -20,7 +20,7 @@ const courseArr = [
             'My Implementation': 'https://github.com/katayoon-rb/Ultimate-Next.js-Course',
             'The Course': 'https://www.jsmastery.pro/ultimate-next13-course',
         },
-        'Tags': [],     
+        'Tags': ['next.js'],     
         'End': ''
     },
     {
