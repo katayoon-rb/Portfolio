@@ -14,10 +14,20 @@ const courseArr = [
 
     // ONGOING
     {
+        'Title': 'CS50ai',
+        'Info': 'Artificial intelligence',
+        'Links': {
+            'My Implementation': '',
+            'Original Course': '',
+        },
+        'Tags': ["ai"],
+        'End': ''
+    },
+    {
         'Title': 'Ultimate Next.js 13 Course',
         'Info': 'Escape the shallow content & dive deep into the hottest tech of 2024',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Ultimate-Next.js-Course',
+            'My Implementation': 'https://katydevflow.vercel.app/',
             'The Course': 'https://www.jsmastery.pro/ultimate-next13-course',
         },
         'Tags': ['next.js'],     
