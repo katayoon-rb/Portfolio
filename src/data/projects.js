@@ -30,6 +30,11 @@ for (let i = 0; i < imported.length; i++) {
 }
 ProjectsArr.push(
     {
+        'name': 'DevFlow',
+        'link': `https://katydevflow.vercel.app/`,
+        'lan': ['html', 'css', 'tailwind', 'typescript', 'next.js']
+    },
+    {
         'name': 'Ultimate Java Mastery',
         'link': `https://github.com/katayoon-rb/Ultimate-Java-Mastery`,
         'lan': ['java']
@@ -88,7 +93,7 @@ ProjectsArr.push(
         'lan': ['html', 'css', 'javaScript', 'tailwind']
     },
     {
-        'name': ' Real Estate',
+        'name': 'Real Estate',
         'link': 'https://katytailwindcss.netlify.app/real%20estate/public/',
         'lan': ['html', 'css', 'javaScript', 'tailwind']
     },
