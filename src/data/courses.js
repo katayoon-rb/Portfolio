@@ -17,8 +17,8 @@ const courseArr = [
         'Title': 'CS50ai',
         'Info': 'Artificial intelligence',
         'Links': {
-            'My Implementation': '',
-            'Original Course': '',
+            'My Implementation': 'https://github.com/katayoon-rb/CS50ai-Course',
+            'Original Course': 'https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python',
         },
         'Tags': ["ai"],
         'End': ''
@@ -264,7 +264,7 @@ const courseArr = [
         'Info': 'Python',
         'Links': {
             'My Implementation': 'https://github.com/katayoon-rb/CS50p-Course',
-            'The Course': 'https://shorturl.at/ksOSU'
+            'The Course': 'https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python'
         },
         'Tags': ['python'],
         'End': '13 Dec, 2023'
@@ -314,7 +314,7 @@ const courseArr = [
         'Info': 'Scratch, C, Python, SQL, HTML/CSS & Flask',
         'Links': {
             'My Implementation': 'https://github.com/katayoon-rb/CS50x-Course',
-            'The Course': 'https://shorturl.at/dnvzA'
+            'The Course': 'https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science'
         },
         'Tags': ['html', 'css', 'python', 'c'],
         'End': '14 Nov, 2023'
