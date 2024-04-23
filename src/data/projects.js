@@ -60,13 +60,13 @@ ProjectsArr.push(
     {
         'name': 'MeetUs',
         'link': `https://katysveltejs.netlify.app/course%20project/public/`,
-        'lan': ['html', 'css', 'javaScript', 'tailwind', 'svelte']
+        'lan': ['html', 'css', 'javascript', 'tailwind', 'svelte']
     },
 
     {
         'name': 'Small Svelte Projects',
         'link': `https://katysveltejs.netlify.app/`,
-        'lan': ['html', 'css', 'javaScript', 'tailwind', 'svelte']
+        'lan': ['html', 'css', 'javascript', 'tailwind', 'svelte']
     },
     {
         'name': 'Ultimate Design Pattern',
@@ -81,7 +81,7 @@ ProjectsArr.push(
     {
         'name': 'Tailwind CSS - Zero to Hero',
         'link': 'https://katytailwindzerotohero.netlify.app/',
-        'lan': ['html', 'css', 'javaScript', 'tailwind']
+        'lan': ['html', 'css', 'javascript', 'tailwind']
     },
     {
         'name': 'The Python Bible',
@@ -92,18 +92,18 @@ ProjectsArr.push(
     {
         'name': 'Dashboard',
         'link': 'https://katytailwindcss.netlify.app/dashboard/public/',
-        'lan': ['html', 'css', 'javaScript', 'tailwind']
+        'lan': ['html', 'css', 'javascript', 'tailwind']
     },
     {
         'name': 'Real Estate',
         'link': 'https://katytailwindcss.netlify.app/real%20estate/public/',
-        'lan': ['html', 'css', 'javaScript', 'tailwind']
+        'lan': ['html', 'css', 'javascript', 'tailwind']
     },
 
     {
         'name': 'Python and Django Full Stack Bootcamp',
         'link': 'https://github.com/katayoon-rb/Python-and-Django-Full-Stack-Bootcamp/',
-        'lan': ['html', 'css', 'python', 'javaScript', 'bootstrap']
+        'lan': ['html', 'css', 'python', 'javascript', 'bootstrap']
     },
     {
         'name': 'CS50p Harvard',
@@ -123,7 +123,7 @@ ProjectsArr.push(
     {
         'name': 'CS50x Harvard',
         'link': 'https://github.com/katayoon-rb/CS50x-Course/',
-        'lan': ['html', 'c', 'css', 'python', 'javaScript']
+        'lan': ['html', 'c', 'css', 'python', 'javascript']
     },
     {
         'name': 'CSS Battle',
