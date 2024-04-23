@@ -8,6 +8,7 @@ import advSassPrj from './prjList/advSass.js'
 import frontendMentorPrj from './prjList/frontendMentor.js'
 import scrimbaPrj from './prjList/scrimba.js'
 import c50prjIn50daysPrj from './prjList/50prjin50days.js'
+import nextjsDevGuidePrj from './prjList/nextjsDevGuide.js'
 
 let imported = [
     c50prjIn50daysPrj,
@@ -19,7 +20,8 @@ let imported = [
     vueCompletePrj,
     twScratchPrj,
     joyOfReactPrj,
-    reactFtBPrj
+    reactFtBPrj,
+    nextjsDevGuidePrj
 ]
 
 let ProjectsArr = []
