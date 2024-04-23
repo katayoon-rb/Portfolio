@@ -9,6 +9,11 @@ const nextjsDevGuidePrj = [
     link: "https://katysnippets.vercel.app/",
     lan: ["typescript", "react", "next.js"],
   },
+  {
+    name: "DevDiscuss",
+    link: "https://katydiscuss.vercel.app/",
+    lan: ["typescript", "react", "next.js"],
+  },
 ];
 
 export default nextjsDevGuidePrj;
