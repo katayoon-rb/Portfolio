@@ -14,6 +14,17 @@ const courseArr = [
 
     // ONGOING
     {
+        'Title': 'The Next.js 13 Bootcamp',
+        'Info': 'The Complete Developer Guide',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Nextjs-Dev-Guide',
+            'Original Course': 'https://www.udemy.com/course/the-nextjs-13-bootcamp-the-complete-developer-guide/',
+        },
+        'End': '',
+        'Tags': ['react', 'next.js'], 
+        'Done': false
+    },
+    {
         'Title': 'CS50ai',
         'Info': 'Artificial intelligence',
         'Links': {
