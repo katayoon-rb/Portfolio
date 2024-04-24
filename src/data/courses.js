@@ -12,12 +12,12 @@ const courseArr = [
     //     'End': ''
     // },
 
-    // ONGOING
+    // ONGOING 
     {
         'Title': 'The Next.js 13 Bootcamp',
         'Info': 'The Complete Developer Guide',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Nextjs-Dev-Guide',
+            'My Implementation': 'https://github.com/katayoon-rb/The-Next.js-Bootcamp/',
             'Original Course': 'https://www.udemy.com/course/the-nextjs-13-bootcamp-the-complete-developer-guide/',
         },
         'End': '',
@@ -46,6 +46,17 @@ const courseArr = [
     },
 
     // FINISHED
+    {
+        'Title': 'Next JS: The Complete Developer Guide',
+        'Info': 'Using App Router, Next Auth, NextUI, and TailwindCSS!',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Nextjs-Dev-Guide',
+            'Original Course': 'https://www.udemy.com/course/next-js-the-complete-developers-guide',
+        },
+        'End': '',
+        'Tags': ['react', 'next.js'], 
+        'Done': false
+    },
     {
         'Title': 'Ultimate Next.js 13 Course',
         'Info': 'Escape the shallow content & dive deep into the hottest tech of 2024',
