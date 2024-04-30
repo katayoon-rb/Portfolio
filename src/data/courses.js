@@ -35,17 +35,17 @@ const courseArr = [
     },
 
     // FINISHED
-    // {
-    //     'Title': '',
-    //     'Info': '',
-    //     'Links': {
-    //         'My Implementation': '',
-    //         'Original Course': '',
-    //     },
-    //     'End': '30 Apr, 2024',
-    //     'Tags': ['angular'], 
-    //     'Done': true
-    // },
+    {
+        'Title': 'Angular Crash Course 2024 (for Beginners)',
+        'Info': 'Building a Storefront with Node.js Backend',
+        'Links': {
+            'My Implementation': '',
+            'Original Course': 'https://www.youtube.com/watch?v=f7BJFTEbc10&t=9s',
+        },
+        'End': '30 Apr, 2024',
+        'Tags': ['angular'], 
+        'Done': true
+    },
     {
         'Title': 'The Next.js 13 Bootcamp',
         'Info': 'The Complete Developer Guide',
