@@ -43,7 +43,7 @@ const courseArr = [
             'Original Course': 'https://www.youtube.com/watch?v=f7BJFTEbc10&t=9s',
         },
         'End': '30 Apr, 2024',
-        'Tags': ['angular'], 
+        'Tags': ['sass', 'angular'], 
         'Done': true
     },
     {
