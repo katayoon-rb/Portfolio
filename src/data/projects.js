@@ -32,6 +32,11 @@ for (let i = 0; i < imported.length; i++) {
 }
 ProjectsArr.push(
     {
+        'name': 'OpenTable',
+        'link': `katyopentablenextjs.vercel.app/ `,
+        'lan': ['typescript', 'next.js']
+    },
+    {
         'name': 'DevFlow',
         'link': `https://katydevflow.vercel.app/`,
         'lan': ['html', 'css', 'tailwind', 'typescript', 'next.js']
