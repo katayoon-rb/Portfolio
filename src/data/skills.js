@@ -56,6 +56,9 @@ let skillsArr = [
     },{
         'name': 'Next.js',
         'state': 'Intermediate'
+    },{
+        'name': 'Angular',
+        'state': 'Intermediate'
     }
 ]
 
