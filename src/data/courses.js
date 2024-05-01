@@ -13,6 +13,39 @@ const courseArr = [
     // },
 
     // ONGOING 
+    // {
+    //     'Title': 'Angular Material In Depth',
+    //     'Info': 'In-depth guided tour to the Angular Material component library (in Angular 17)',
+    //     'Links': {
+    //         'My Implementation': 'https://github.com/katayoon-rb/Angular-Material-In-Depth',
+    //         'Original Course': 'https://www.udemy.com/course/angular-material-course/',
+    //     },
+    //     'End': '',
+    //     'Tags': ['angular'], 
+    //     'Done': false
+    // },
+    // {
+    //     'Title': 'Angular Core Deep Dive',
+    //     'Info': 'Advanced Features of the Angular Core and Common modules.',
+    //     'Links': {
+    //         'My Implementation': 'https://github.com/katayoon-rb/Angular-Core-Deep-Dive',
+    //         'Original Course': 'https://www.udemy.com/course/angular-course/?couponCode=ST2MT43024',
+    //     },
+    //     'End': '',
+    //     'Tags': ['angular'], 
+    //     'Done': false
+    // },
+    {
+        'Title': 'Angular – The Complete Guide',
+        'Info': 'Master Angular (formerly "Angular 2") and build awesome, reactive web apps!',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Angular-The-Complete-Guide',
+            'Original Course': 'https://www.udemy.com/course/the-complete-guide-to-angular-2/',
+        },
+        'End': '',
+        'Tags': ['angular'], 
+        'Done': false
+    },
     {
         'Title': 'CS50ai',
         'Info': 'Artificial intelligence',
