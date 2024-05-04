@@ -32,6 +32,11 @@ for (let i = 0; i < imported.length; i++) {
 }
 ProjectsArr.push(
     {
+        'name': 'Recipe Book',
+        'link': `https://katyangularrecipebook.vercel.app/ `,
+        'lan': ['angular', 'bootstrap']
+    },
+    {
         'name': 'OpenTable',
         'link': `katyopentablenextjs.vercel.app/ `,
         'lan': ['typescript', 'next.js']
