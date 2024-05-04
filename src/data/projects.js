@@ -25,11 +25,6 @@ let imported = [
 ]
 
 let ProjectsArr = []
-for (let i = 0; i < imported.length; i++) {
-    for (let j = 0; j < imported[i].length; j++) {
-        ProjectsArr.push(imported[i][j])
-    }
-}
 ProjectsArr.push(
     {
         'name': 'Recipe Book',
@@ -156,5 +151,11 @@ ProjectsArr.push(
         'lan': ['javascript']
     }
 )
+
+for (let i = 0; i < imported.length; i++) {
+    for (let j = 0; j < imported[i].length; j++) {
+        ProjectsArr.push(imported[i][j])
+    }
+}
 
 export default ProjectsArr
