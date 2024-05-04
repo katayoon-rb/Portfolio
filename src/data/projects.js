@@ -27,8 +27,13 @@ let imported = [
 let ProjectsArr = []
 ProjectsArr.push(
     {
+        'name': 'Angular University Courses Page',
+        'link': `https://katyangularunicourses.vercel.app/`,
+        'lan': ['angular']
+    },
+    {
         'name': 'Recipe Book',
-        'link': `https://katyangularrecipebook.vercel.app/ `,
+        'link': `https://katyangularrecipebook.vercel.app/`,
         'lan': ['angular', 'bootstrap']
     },
     {
