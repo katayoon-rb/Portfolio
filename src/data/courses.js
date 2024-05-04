@@ -24,23 +24,12 @@ const courseArr = [
     //     'Tags': ['angular'], 
     //     'Done': false
     // },
-    // {
-    //     'Title': 'Angular Core Deep Dive',
-    //     'Info': 'Advanced Features of the Angular Core and Common modules.',
-    //     'Links': {
-    //         'My Implementation': 'https://github.com/katayoon-rb/Angular-Core-Deep-Dive',
-    //         'Original Course': 'https://www.udemy.com/course/angular-course/?couponCode=ST2MT43024',
-    //     },
-    //     'End': '',
-    //     'Tags': ['angular'], 
-    //     'Done': false
-    // },
     {
-        'Title': 'Angular – The Complete Guide',
-        'Info': 'Master Angular (formerly "Angular 2") and build awesome, reactive web apps!',
+        'Title': 'Angular Core Deep Dive',
+        'Info': 'Advanced Features of the Angular Core and Common modules.',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Angular-The-Complete-Guide',
-            'Original Course': 'https://www.udemy.com/course/the-complete-guide-to-angular-2/',
+            'My Implementation': 'https://github.com/katayoon-rb/Angular-Core-Deep-Dive',
+            'Original Course': 'https://www.udemy.com/course/angular-course/?couponCode=ST2MT43024',
         },
         'End': '',
         'Tags': ['angular'], 
@@ -68,6 +57,17 @@ const courseArr = [
     },
 
     // FINISHED
+    {
+        'Title': 'Angular – The Complete Guide',
+        'Info': 'Master Angular (formerly "Angular 2") and build awesome, reactive web apps!',
+        'Links': {
+            'My Implementation': 'https://katyangularrecipebook.vercel.app/',
+            'Original Course': 'https://www.udemy.com/course/the-complete-guide-to-angular-2/',
+        },
+        'End': '4 May, 2024',
+        'Tags': ['angular'], 
+        'Done': true
+    },
     {
         'Title': 'Angular Tutorial For Beginners',
         'Info': 'Secure your spot now and embark on your journey to becoming a Spring Boot master!',
