@@ -43,7 +43,7 @@ ProjectsArr.push(
     },
     {
         'name': 'OpenTable',
-        'link': `katyopentablenextjs.vercel.app/ `,
+        'link': `https://katyopentablenextjs.vercel.app/ `,
         'lan': ['typescript', 'next.js']
     },
     {
