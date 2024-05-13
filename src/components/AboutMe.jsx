@@ -19,8 +19,12 @@ function AboutMe({profileLink}) {
                     About Me
                 </h3>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis repellendus id autem! Doloremque quaerat odio pariatur. Dicta enim quaerat vitae voluptates, explicabo beatae vel. Quasi alias nulla deleniti expedita nisi.
-                    Animi quos accusamus, earum quod a nobis ea doloribus molestiae inventore velit quidem architecto et fugiat possimus optio dolorum vel voluptate. Laboriosam corporis accusamus odio harum sunt? Aperiam, suscipit hic!
+                  Frontend developer with almost 2 years of studying and gaining
+                  experience building responsive and high-quality web applications.
+                  Proficient with React, CSS, and browser APIs with extensive
+                  knowledge of Javascript's core concepts and a fan of functional
+                  programming principles. Also familiar with so many of Javascript and
+                  CSS Frameworks.
                 </p>
             </div>
         </div>
