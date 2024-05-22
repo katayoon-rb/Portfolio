@@ -69,32 +69,10 @@ const courseArr = [
         'Done': true
     },
     {
-        'Title': 'Angular Tutorial For Beginners',
-        'Info': 'Secure your spot now and embark on your journey to becoming a Spring Boot master!',
-        'Links': {
-            'My Implementation': '',
-            'Original Course': 'https://www.youtube.com/watch?v=VTEDh2pNSBQ&t=5s',
-        },
-        'End': '30 Apr, 2024',
-        'Tags': ['angular'], 
-        'Done': true
-    },
-    {
-        'Title': 'Angular Crash Course 2024 (for Beginners)',
-        'Info': 'Building a Storefront with Node.js Backend',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Angular-Crash-Course',
-            'Original Course': 'https://www.youtube.com/watch?v=f7BJFTEbc10&t=9s',
-        },
-        'End': '30 Apr, 2024',
-        'Tags': ['sass', 'angular'], 
-        'Done': true
-    },
-    {
         'Title': 'The Next.js 13 Bootcamp',
         'Info': 'The Complete Developer Guide',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/The-Next.js-Bootcamp/',
+            'My Implementation': 'https://katyopentablenextjs.vercel.app/',
             'Original Course': 'https://www.udemy.com/course/the-nextjs-13-bootcamp-the-complete-developer-guide/',
         },
         'End': '27 Apr, 2024',
@@ -105,7 +83,7 @@ const courseArr = [
         'Title': 'Next JS: The Complete Developer Guide',
         'Info': 'Using App Router, Next Auth, NextUI, and TailwindCSS!',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Nextjs-Dev-Guide',
+            'My Implementation': 'https://katynextjsdevguide.vercel.app/',
             'Original Course': 'https://www.udemy.com/course/next-js-the-complete-developers-guide',
         },
         'End': '',
