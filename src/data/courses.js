@@ -14,6 +14,28 @@ const courseArr = [
 
     // ONGOING 
     {
+        'Title': 'Next.js 14 & React',
+        'Info': "Learn NextJS 14 and build fullstack ReactJS + NextJS apps with the App or Pages Router!",
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Nextjs-Complete-Guide',
+            'Original Course': 'https://www.udemy.com/course/nextjs-react-the-complete-guide/',
+        },
+        'End': '',
+        'Tags': ['react', 'next.js'], 
+        'Done': false
+    },
+    {
+        'Title': 'CS50w',
+        'Info': "CS50's Web Programming with Python and JavaScript",
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/CS50w-Course',
+            'Original Course': 'https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript',
+        },
+        'End': '',
+        'Tags': ['python', 'javascript', 'react', 'bootstrap']
+        'Done': false
+    },
+    {
         'Title': 'CS50ai',
         'Info': 'Artificial intelligence',
         'Links': {
