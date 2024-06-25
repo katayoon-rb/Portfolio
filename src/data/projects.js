@@ -29,6 +29,11 @@ let imported = [
 let ProjectsArr = []
 ProjectsArr.push(
     {
+        'name': 'Today I Learned',
+        'link': `https://katyfullstack.vercel.app/`,
+        'lan': ['html', 'css', 'javascript', 'react']
+    },
+    {
         'name': 'Angular Material Demo',
         'link': `https://katyangularmaterial.vercel.app/`,
         'lan': ['angular']
