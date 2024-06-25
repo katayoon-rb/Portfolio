@@ -13,16 +13,25 @@ const courseArr = [
     // },
 
     // ONGOING 
-    {
-        'Title': 'Next.js 14 & React',
-        'Info': "Learn NextJS 14 and build fullstack ReactJS + NextJS apps with the App or Pages Router!",
+     {
+        'Title': 'HTMX - The Practical Guide',
+        'Info': 'Learn how to use the HTMX library to extend HTML and write simple yet powerful code.',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Nextjs-Complete-Guide',
-            'Original Course': 'https://www.udemy.com/course/nextjs-react-the-complete-guide/',
+            'My Implementation': 'https://github.com/katayoon-rb/HTMX-Practical-Guide',
+            'The Course': 'https://www.udemy.com/course/htmx-the-practical-guide/'
         },
-        'End': '',
-        'Tags': ['react', 'next.js'], 
-        'Done': false
+        'Tags': ['htmx'],
+        'End': ''
+    },
+    {
+        'Title': 'Crash Course: Build a Full-Stack Web App',
+        'Info': 'A quick, fun, and hands-on introduction to web development.',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Full-Stack-Crash-Course',
+            'The Course': 'https://www.udemy.com/course/full-stack-crash-course/',
+        },
+        'Tags': ['html', 'css', 'javascript', 'react'],
+        'End': ''
     },
     {
         'Title': 'CS50w',
@@ -57,6 +66,17 @@ const courseArr = [
     },
 
     // FINISHED
+    {
+        'Title': 'Next.js 14 & React',
+        'Info': "Learn NextJS 14 and build fullstack ReactJS + NextJS apps with the App or Pages Router!",
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Nextjs-Complete-Guide',
+            'Original Course': 'https://www.udemy.com/course/nextjs-react-the-complete-guide/',
+        },
+        'End': '24 Jun, 2024',
+        'Tags': ['react', 'next.js'], 
+        'Done': false
+    },
     {
         'Title': 'Angular Material In Depth',
         'Info': 'In-depth guided tour to the Angular Material component library (in Angular 17)',
