@@ -14,16 +14,6 @@ const courseArr = [
 
     // ONGOING
     {
-        'Title': 'Django Bootcamp: Zero to Mastery',
-        'Info': 'Learn Django from scratch and from an industry expert by building real-world apps.',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Django-Bootcamp',
-            'The Course': 'https://zerotomastery.io/courses/django-bootcamp/',
-        },
-        'Tags': ['django'],
-        'End': ''
-    },
-    {
         'Title': 'Python Django - The Practical Guide',
         'Info': 'Learn how to build web applications and websites with Python and the Django framework',
         'Links': {
@@ -66,7 +56,17 @@ const courseArr = [
     },
 
     // FINISHED 
-     {
+    {
+        'Title': 'Django Bootcamp: Zero to Mastery',
+        'Info': 'Learn Django from scratch and from an industry expert by building real-world apps.',
+        'Links': {
+            'My Implementation': 'https://github.com/katayoon-rb/Django-Bootcamp',
+            'The Course': 'https://zerotomastery.io/courses/django-bootcamp/',
+        },
+        'Tags': ['django'],
+        'End': '2 July, 2024'
+    },
+    {
         'Title': 'HTMX - The Practical Guide',
         'Info': 'Learn how to use the HTMX library to extend HTML and write simple yet powerful code.',
         'Links': {
