@@ -10,6 +10,7 @@ import scrimbaPrj from './prjList/scrimba.js'
 import c50prjIn50daysPrj from './prjList/50prjin50days.js'
 import nextjsDevGuidePrj from './prjList/nextjsDevGuide.js'
 import nextjsCGPrj from './prjList/nextjsCG.js'
+import djangoBPrj from './prjList/djangoB.js'
 
 let imported = [
     c50prjIn50daysPrj,
@@ -23,7 +24,8 @@ let imported = [
     joyOfReactPrj,
     reactFtBPrj,
     nextjsDevGuidePrj,
-    nextjsCGPrj
+    nextjsCGPrj,
+    djangoBPrj
 ]
 
 let ProjectsArr = []
