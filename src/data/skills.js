@@ -16,13 +16,13 @@ let skillsArr = [
         'state': 'Expert'
     },{
         'name': 'React',
-        'state': 'Advanced'
+        'state': 'Expert'
     },{
-        'name': 'Vuejs',
+        'name': 'Vue.js',
         'state': 'Intermediate'
     },{
         'name': 'TypeScript',
-        'state': 'Intermediate'
+        'state': 'Advanced'
     },{
         'name': 'Svelte',
         'state': 'Intermediate'
@@ -31,7 +31,7 @@ let skillsArr = [
         'state': 'Basic'
     },{
         'name': 'Python',
-        'state': 'Intermediate'
+        'state': 'Advanced'
     },{
         'name': 'Java',
         'state': 'Advanced'
@@ -49,16 +49,22 @@ let skillsArr = [
         'state': 'Intermediate'
     },{
         'name': 'SQL',
-        'state': 'Basic'
+        'state': 'Intermediate'
     },{
         'name': 'Artificial intelligence',
-        'state': 'Basic'
+        'state': 'Intermediate'
     },{
         'name': 'Next.js',
-        'state': 'Intermediate'
+        'state': 'Advanced'
     },{
         'name': 'Angular',
+        'state': 'Basic'
+    },{
+        'name': 'HTMX',
         'state': 'Intermediate'
+    },{
+        'name': 'Django',
+        'state': 'Advanced'
     }
 ]
 
