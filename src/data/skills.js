@@ -54,6 +54,9 @@ let skillsArr = [
         'name': 'Artificial intelligence',
         'state': 'Intermediate'
     },{
+        'name': 'Node.js',
+        'state': 'Basic'
+    },{
         'name': 'Next.js',
         'state': 'Advanced'
     },{
