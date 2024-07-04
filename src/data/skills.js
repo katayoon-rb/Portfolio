@@ -22,7 +22,7 @@ let skillsArr = [
         'state': 'Intermediate'
     },{
         'name': 'TypeScript',
-        'state': 'Advanced'
+        'state': 'Expert'
     },{
         'name': 'Svelte',
         'state': 'Intermediate'
@@ -43,7 +43,7 @@ let skillsArr = [
         'state': 'Expert'
     },{
         'name': 'Design Patterns',
-        'state': 'Intermediate'
+        'state': 'Basic'
     },{
         'name': 'Git',
         'state': 'Intermediate'
