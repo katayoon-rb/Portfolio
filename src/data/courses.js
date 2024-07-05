@@ -80,7 +80,7 @@ const courseArr = [
         'Title': 'Python Django - The Practical Guide',
         'Info': 'Learn how to build web applications and websites with Python and the Django framework',
         'Links': {
-            'My Implementation': 'https://katydjangopracticalguide.vercel.app/',
+            'My Implementation': 'https://katydjangoblog.vercel.app/',
             'The Course': 'https://www.udemy.com/course/python-django-the-practical-guide/',
         },
         'Tags': ['python', 'django'],
