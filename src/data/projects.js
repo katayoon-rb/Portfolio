@@ -31,6 +31,11 @@ let imported = [
 let ProjectsArr = []
 ProjectsArr.push(
     {
+        'name': 'Django Blog',
+        'link': `https://katydjangopracticalguide.vercel.app/`,
+        'lan': ['html', 'css', 'django', 'python']
+    },
+    {
         'name': 'Today I Learned',
         'link': `https://katyfullstack.vercel.app/`,
         'lan': ['html', 'css', 'javascript', 'react']
