@@ -44,16 +44,6 @@ const courseArr = [
     //     'End': ''
     // },
     {
-        'Title': 'Python Django - The Practical Guide',
-        'Info': 'Learn how to build web applications and websites with Python and the Django framework',
-        'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/Django-Practical-Guide',
-            'The Course': 'https://www.udemy.com/course/python-django-the-practical-guide/',
-        },
-        'Tags': ['python', 'django'],
-        'End': ''
-    },
-    {
         'Title': 'CS50w',
         'Info': "CS50's Web Programming with Python and JavaScript",
         'Links': {
@@ -86,6 +76,16 @@ const courseArr = [
     },
 
     // FINISHED 
+    {
+        'Title': 'Python Django - The Practical Guide',
+        'Info': 'Learn how to build web applications and websites with Python and the Django framework',
+        'Links': {
+            'My Implementation': 'https://katydjangopracticalguide.vercel.app/',
+            'The Course': 'https://www.udemy.com/course/python-django-the-practical-guide/',
+        },
+        'Tags': ['python', 'django'],
+        'End': '5 July, 2024'
+    },
     {
         'Title': 'Django Bootcamp: Zero to Mastery',
         'Info': 'Learn Django from scratch and from an industry expert by building real-world apps.',
