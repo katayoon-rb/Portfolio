@@ -32,7 +32,7 @@ let ProjectsArr = []
 ProjectsArr.push(
     {
         'name': 'Django Blog',
-        'link': `https://katydjangopracticalguide.vercel.app/`,
+        'link': `https://katydjangoblog.vercel.app/`,
         'lan': ['html', 'css', 'django', 'python']
     },
     {
