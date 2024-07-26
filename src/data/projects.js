@@ -10,8 +10,7 @@ import scrimbaPrj from './prjList/scrimba.js'
 import c50prjIn50daysPrj from './prjList/50prjin50days.js'
 import nextjsDevGuidePrj from './prjList/nextjsDevGuide.js'
 import nextjsCGPrj from './prjList/nextjsCG.js'
-import djangoBPrj from './prjList/djangoB.js'
-import NuxtBPrj from './prjList/nuxtB.js'
+import nuxtBPrj from './prjList/nuxtB.js'
 
 let imported = [
     c50prjIn50daysPrj,
@@ -26,12 +25,16 @@ let imported = [
     reactFtBPrj,
     nextjsDevGuidePrj,
     nextjsCGPrj,
-    djangoBPrj,
-    NuxtBPrj
+    nuxtBPrj
 ]
 
 let ProjectsArr = []
 ProjectsArr.push(
+    {
+        'name': 'Django Bootcamp',
+        'link': `https://github.com/katayoon-rb/Django-Bootcamp/tree/main`,
+        'lan': ['html', 'css', 'django', 'python']
+    },
     {
         'name': 'Django Blog',
         'link': `https://katydjangoblog.vercel.app/`,
