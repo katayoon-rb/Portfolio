@@ -1,4 +1,4 @@
-const NuxtBPrj = [
+const nuxtBPrj = [
     {
         'name': 'Baby Name Generator Nuxt.js',
         'link': 'https://katybabynamenuxtb.vercel.app/',
@@ -31,4 +31,4 @@ const NuxtBPrj = [
     },
 ]
 
-export default NuxtBPrj
+export default nuxtBPrj
