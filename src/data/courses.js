@@ -13,26 +13,6 @@ const courseArr = [
     // },
 
     // ONGOING
-    // {
-    //     'Title': 'Nuxt.js 2 - Vue.js on Steroids',
-    //     'Info': 'Build highly engaging Vue JS apps with Nuxt.js.',
-    //     'Links': {
-    //         'My Implementation': 'https://github.com/katayoon-rb/Nuxtjs-Vue-on-Steroids',
-    //         'The Course': 'https://www.udemy.com/course/nuxtjs-vuejs-on-steroids',
-    //     },
-    //     'Tags': ['nuxt.js'],
-    //     'End': ''
-    // },
-    // {
-    //     'Title': 'The Mastering Nuxt 3',
-    //     'Info': ' The complete guide to developing and deploying fast, production-ready Nuxt 3 apps.',
-    //     'Links': {
-    //         'My Implementation': 'https://github.com/katayoon-rb/Mastering-Nuxt',
-    //         'The Course': 'https://masteringnuxt.com/nuxt3',
-    //     },
-    //     'Tags': ['nuxt.js'],
-    //     'End': ''
-    // },
     {
         'Title': 'CS50w',
         'Info': "CS50's Web Programming with Python and JavaScript",
