@@ -70,7 +70,7 @@ const courseArr = [
         'Title': 'The Nuxt 3 Bootcamp - The Complete Developer Guide',
         'Info': 'Build complex & engaging Vue apps with Nuxt3.',
         'Links': {
-            'My Implementation': 'https://github.com/katayoon-rb/The-Nuxt-Bootcamp',
+            'My Implementation': 'https://katynuxtbootcamp.vercel.app/',
             'The Course': 'https://www.udemy.com/course/the-nuxt-3-bootcamp-the-complete-developer-guide',
         },
         'Tags': ['nuxt.js'],
