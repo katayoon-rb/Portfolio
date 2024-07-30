@@ -8,7 +8,7 @@ function Certificates() {
                     text-5xl md:text-6xl text-center">
                 Certificates
             </h3>
-            <div className='flex justify-center gap-5
+            <div className='flex flex-wrap justify-center gap-5
                     items-center md:items-stretch flex-col md:flex-row'>
                 {certificatesArr.map(cer => (
                     <CerItem
