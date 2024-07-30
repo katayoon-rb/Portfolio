@@ -21,7 +21,7 @@ const courseArr = [
             'Original Course': 'https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript',
         },
         'End': '',
-        'Tags': ['python', 'javascript', 'react', 'bootstrap'],
+        'Tags': ['Python', 'JavaScript', 'React', 'Bootstrap'],
         'Done': false
     },
     {
@@ -31,7 +31,7 @@ const courseArr = [
             'My Implementation': 'https://github.com/katayoon-rb/CS50ai-Course',
             'Original Course': 'https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python',
         },
-        'Tags': ["ai"],
+        'Tags': ["Ai"],
         'End': ''
     },
     {
@@ -41,11 +41,29 @@ const courseArr = [
             'My Implementation': 'https://katycssbattle.netlify.app/',
             'The Site': 'https://cssbattle.dev/'
         },
-        'Tags': ['css'],
+        'Tags': ['CSS'],
         'End': ''
     },
 
     // FINISHED 
+    {
+        'Title': 'Advanced SQL',
+        'Info': 'Take your SQL skills to the next level.',
+        'Links': {
+            'The Course': 'https://www.kaggle.com/learn/advanced-sql',
+        },
+        'Tags': ['SQL'],
+        'End': '30 Jul, 2024'
+    },
+    {
+        'Title': 'Intro to SQL',
+        'Info': 'Learn SQL for working with databases, using Google BigQuery.',
+        'Links': {
+            'The Course': 'https://www.kaggle.com/learn/intro-to-sql',
+        },
+        'Tags': ['SQL'],
+        'End': '29 Jul, 2024'
+    },
     {
         'Title': 'The Nuxt 3 Bootcamp - The Complete Developer Guide',
         'Info': 'Build complex & engaging Vue apps with Nuxt3.',
@@ -53,8 +71,8 @@ const courseArr = [
             'My Implementation': 'https://katynuxtbootcamp.vercel.app/',
             'The Course': 'https://www.udemy.com/course/the-nuxt-3-bootcamp-the-complete-developer-guide',
         },
-        'Tags': ['nuxt.js'],
-        'End': '25 July, 2024'
+        'Tags': ['Nuxt.js'],
+        'End': '25 Jul, 2024'
     },
     {
         'Title': 'Python Django - The Practical Guide',
@@ -63,8 +81,8 @@ const courseArr = [
             'My Implementation': 'https://katydjangoblog.vercel.app/',
             'The Course': 'https://www.udemy.com/course/python-django-the-practical-guide/',
         },
-        'Tags': ['python', 'django'],
-        'End': '5 July, 2024'
+        'Tags': ['Python', 'Django'],
+        'End': '5 Jul, 2024'
     },
     {
         'Title': 'Django Bootcamp: Zero to Mastery',
@@ -73,8 +91,8 @@ const courseArr = [
             'My Implementation': 'https://github.com/katayoon-rb/Django-Bootcamp',
             'The Course': 'https://zerotomastery.io/courses/django-bootcamp/',
         },
-        'Tags': ['django'],
-        'End': '2 July, 2024'
+        'Tags': ['Django'],
+        'End': '2 Jul, 2024'
     },
     {
         'Title': 'HTMX - The Practical Guide',
@@ -83,7 +101,7 @@ const courseArr = [
             'My Implementation': 'https://github.com/katayoon-rb/HTMX-Practical-Guide',
             'The Course': 'https://www.udemy.com/course/htmx-the-practical-guide/'
         },
-        'Tags': ['htmx'],
+        'Tags': ['HTMX'],
         'End': '26 Jun, 2024'
     },
     {
@@ -93,7 +111,7 @@ const courseArr = [
             'My Implementation': 'https://katyfullstack.vercel.app/',
             'The Course': 'https://www.udemy.com/course/full-stack-crash-course/',
         },
-        'Tags': ['html', 'css', 'javascript', 'react'],
+        'Tags': ['HTML', 'CSS', 'JavaScript', 'React'],
         'End': '25 Jun, 2024'
     },
     {
@@ -104,7 +122,7 @@ const courseArr = [
             'Original Course': 'https://www.udemy.com/course/nextjs-react-the-complete-guide/',
         },
         'End': '24 Jun, 2024',
-        'Tags': ['react', 'next.js'], 
+        'Tags': ['React', 'Next.js'], 
         'Done': false
     },
     {
@@ -115,7 +133,7 @@ const courseArr = [
             'Original Course': 'https://www.udemy.com/course/angular-material-course/',
         },
         'End': '6 May, 2024',
-        'Tags': ['angular'], 
+        'Tags': ['Angular'], 
         'Done': true
     },
     {
@@ -126,7 +144,7 @@ const courseArr = [
             'Original Course': 'https://www.udemy.com/course/angular-course/',
         },
         'End': '5 May, 2024',
-        'Tags': ['angular'], 
+        'Tags': ['Angular'], 
         'Done': true
     },
     {
@@ -137,7 +155,7 @@ const courseArr = [
             'Original Course': 'https://www.udemy.com/course/the-complete-guide-to-angular-2/',
         },
         'End': '4 May, 2024',
-        'Tags': ['angular'], 
+        'Tags': ['Angular'], 
         'Done': true
     },
     {
@@ -148,7 +166,7 @@ const courseArr = [
             'Original Course': 'https://www.udemy.com/course/the-nextjs-13-bootcamp-the-complete-developer-guide/',
         },
         'End': '27 Apr, 2024',
-        'Tags': ['react', 'next.js'], 
+        'Tags': ['React', 'Next.js'], 
         'Done': true
     },
     {
@@ -159,7 +177,7 @@ const courseArr = [
             'Original Course': 'https://www.udemy.com/course/next-js-the-complete-developers-guide',
         },
         'End': '',
-        'Tags': ['react', 'next.js'], 
+        'Tags': ['React', 'Next.js'], 
         'Done': false
     },
     {
@@ -169,7 +187,7 @@ const courseArr = [
             'My Implementation': 'https://katydevflow.vercel.app/',
             'The Course': 'https://www.jsmastery.pro/ultimate-next13-course',
         },
-        'Tags': ['next.js'],     
+        'Tags': ['Next.js'],     
         'End': '20 Apr, 2024'
     },
     {
@@ -179,7 +197,7 @@ const courseArr = [
             'My Implementation': 'https://github.com/katayoon-rb/Ultimate-Java-Mastery',
             'The Course': 'https://codewithmosh.com/p/the-ultimate-java-mastery-series',
         },
-        'Tags': ['java'],
+        'Tags': ['Java'],
         'End': '10 Mar, 2024'
     },
     {
@@ -189,7 +207,7 @@ const courseArr = [
             'My Implementation': 'https://github.com/katayoon-rb/Java-Bootcamp-ZeroToMastery',
             'The Course': 'https://zerotomastery.io/courses/java-bootcamp/',
         },
-        'Tags': ['java'],
+        'Tags': ['Java'],
         'End': '6 Mar, 2024'
     },
     {
@@ -207,7 +225,7 @@ const courseArr = [
         'Links': {
             'My Implementation': 'https://github.com/katayoon-rb/Java-Bootcamp',
         },
-        'Tags': ['java'],
+        'Tags': ['Java'],
         'End': '25 Feb, 2024'
     },
     {
@@ -216,7 +234,7 @@ const courseArr = [
         'Links': {
             'The Course': 'https://www.udemy.com/course/react-testing-library-and-jest',
         },
-        'Tags': ['react'],
+        'Tags': ['React'],
         'End': '24 Feb, 2024'
     },
     {
@@ -226,7 +244,7 @@ const courseArr = [
             'My Implementation': 'https://katyreactfronttoback.vercel.app/',
             'The Course': 'https://www.udemy.com/course/react-front-to-back-2022/',
         },
-        'Tags': ['react'],
+        'Tags': ['React'],
         'End': '22 Feb, 2024'
     },
     {
@@ -236,7 +254,7 @@ const courseArr = [
             'My Implementation': 'https://katyjoyofreact.vercel.app/',
             'The Course': 'https://www.joyofreact.com/',
         },
-        'Tags': ['react'],
+        'Tags': ['React'],
         'End': '3 Feb, 2024'
     },
     {
@@ -246,7 +264,7 @@ const courseArr = [
             'My Implementation': 'https://github.com/katayoon-rb/Design-Patterns-in-Js',
             'The Course': 'https://www.udemy.com/course/design-patterns-javascript/',
         },
-        'Tags': ['javascript'],
+        'Tags': ['JavaScript'],
         'End': '15 Jan, 2024'
     },
     {
@@ -256,7 +274,7 @@ const courseArr = [
             'My Implementation': 'https://katysveltejs.netlify.app/',
             'The Course': 'https://www.udemy.com/course/sveltejs-the-complete-guide/',
         },
-        'Tags': ['svelte.js'],
+        'Tags': ['Svelte.js'],
         'End': '15 Jan, 2024'
     },
     {
@@ -266,7 +284,7 @@ const courseArr = [
             'My Implementation': 'https://katytailwindfromscratch.netlify.app/',
             'The Course': 'https://www.udemy.com/course/tailwind-from-scratch/',
         },
-        'Tags': ['tailwind'],
+        'Tags': ['Tailwind'],
         'End': '15 Jan, 2024'
     },
     {
@@ -276,7 +294,7 @@ const courseArr = [
             'My Implementation': 'https://github.com/katayoon-rb/Ultimate-Design-Pattern',
             'The Course': 'https://codewithmosh.com/p/design-patterns',
         },
-        'Tags': ['java'],
+        'Tags': ['Java'],
         'End': '10 Jan, 2024'
     },
     {
@@ -286,7 +304,7 @@ const courseArr = [
             'My Implementation': 'https://github.com/katayoon-rb/70-JavaScript-Challenges',
             'The Course': 'https://www.udemy.com/course/javascript-challenges/?persist_locale=&locale=en_US',
         },
-        'Tags': ['javascript'],
+        'Tags': ['JavaScript'],
         'End': '8 Jan, 2024'
     },
     {
@@ -296,7 +314,7 @@ const courseArr = [
             'My Implementation': 'https://katyvueguide.netlify.app/',
             'The Course': 'https://www.udemy.com/course/vuejs-2-the-complete-guide/',
         },
-        'Tags': ['vue.js'],
+        'Tags': ['Vue.js'],
         'End': '8 Jan, 2024'
     },
     {
@@ -315,7 +333,7 @@ const courseArr = [
             'My Implementation': 'https://katybootstrapfromscratch.netlify.app/',
             'The Course': 'https://www.udemy.com/course/bootstrap-from-scratch/',
         },
-        'Tags': ['bootstrap'],
+        'Tags': ['Bootstrap'],
         'End': '30 Dec, 2023'
     },
     {
@@ -325,7 +343,7 @@ const courseArr = [
             'My Implementation': 'https://katytailwindzerotohero.netlify.app/',
             'The Course': 'https://www.udemy.com/course/tailwind-css-zero-to-hero/',
         },
-        'Tags': ['tailwind'],
+        'Tags': ['Tailwind'],
         'End': '20 Dec, 2023'
     },
     {
@@ -335,7 +353,7 @@ const courseArr = [
             'My Implementation': 'https://katyreacttypescript.netlify.app/',
             'The Course': 'https://www.udemy.com/course/react-typescript-the-practical-guide/',
         },
-        'Tags': ['react', 'javascript', 'typescript'],
+        'Tags': ['React', 'JavaScript', 'TypeScript'],
         'End': '20 Dec, 2023'
     },
     {
@@ -345,7 +363,7 @@ const courseArr = [
             'My Implementation': 'https://github.com/katayoon-rb/The-Python-Bible',
             'The Course': 'https://www.udemy.com/course/the-python-bible/',
         },
-        'Tags': ['python'],
+        'Tags': ['Python'],
         'End': '19 Dec, 2023'
     },
     {
@@ -355,7 +373,7 @@ const courseArr = [
             'My Implementation': 'https://katytailwindcss.netlify.app',
             'The Course': 'https://www.udemy.com/course/tailwind-css-course/',
         },
-        'Tags': ['tailwind'],
+        'Tags': ['Tailwind'],
         'End': '18 Dec, 2023'
     },
     {
@@ -364,7 +382,7 @@ const courseArr = [
         'Links': {
             'The Course': 'https://pro.academind.com/p/javascript-the-tricky-parts',
         },
-        'Tags': ['javascript'],
+        'Tags': ['JavaScript'],
         'End': '17 Dec, 2023'
     },
     {
@@ -373,7 +391,7 @@ const courseArr = [
         'Links': {
             'The Course': 'https://www.udemy.com/course/typescript-for-professionals/',
         },
-        'Tags': ['typescript'],
+        'Tags': ['TypeScript'],
         'End': '14 Dec, 2023'
     },
     {
@@ -383,7 +401,7 @@ const courseArr = [
             'My Implementation': 'https://github.com/katayoon-rb/Python-and-Django-Full-Stack-Bootcamp',
             'The Course': 'https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/',
         },
-        'Tags': ['html', 'css', 'javascript', 'bootstrap', 'python'],
+        'Tags': ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'Python'],
         'End': '14 Dec, 2023'
     },
     {
@@ -393,7 +411,7 @@ const courseArr = [
             'My Implementation': 'https://github.com/katayoon-rb/CS50p-Course',
             'The Course': 'https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python'
         },
-        'Tags': ['python'],
+        'Tags': ['Python'],
         'End': '13 Dec, 2023'
     },
     {
@@ -403,7 +421,7 @@ const courseArr = [
             'The Book': 'https://automatetheboringstuff.com/',
             'The Course': 'https://www.udemy.com/course/automate/',
         },
-        'Tags': ['python'],
+        'Tags': ['Python'],
         'End': '10 Dec, 2023'
     },
     {
@@ -413,7 +431,7 @@ const courseArr = [
             'My Implementation': 'https://katyundrestandingts.netlify.app/',
             'The Course': 'https://www.udemy.com/course/understanding-typescript/',
         },
-        'Tags': ['javascript', 'typescript'],
+        'Tags': ['JavaScript', 'TypeScript'],
         'End': '4 Dec, 2023'
     },
     {
@@ -423,7 +441,7 @@ const courseArr = [
             'My Implementation': 'https://github.com/katayoon-rb/30-Days-of-JavaScript-leetcode',
             'The Site': 'https://leetcode.com/studyplan/30-days-of-javascript/'
         },
-        'Tags': ['javascript'],
+        'Tags': ['JavaScript'],
         'End': '23 Nov, 2023'
     },
     {
@@ -433,7 +451,7 @@ const courseArr = [
             'My Implementation': 'https://katyadvcssandsass.netlify.app/',
             'The Course': 'https://www.udemy.com/course/advanced-css-and-sass/',
         },
-        'Tags': ['html', 'css', 'sass'],
+        'Tags': ['HTML', 'CSS', 'Sass'],
         'End': '23 Nov, 2023'
     },
     {
@@ -443,7 +461,7 @@ const courseArr = [
             'My Implementation': 'https://github.com/katayoon-rb/CS50x-Course',
             'The Course': 'https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science'
         },
-        'Tags': ['html', 'css', 'python', 'c'],
+        'Tags': ['HTML', 'CSS', 'Python', 'C', 'SQL'],
         'End': '14 Nov, 2023'
     },
     {
@@ -453,7 +471,7 @@ const courseArr = [
             'My Implementation': 'https://katy100dayscss.netlify.app/',
             'The Site': 'https://100dayscss.com/'
         },
-        'Tags': ['html', 'css'],
+        'Tags': ['HTML', 'CSS'],
         'End': '8 Nov, 2023'
     },
     {
@@ -463,7 +481,7 @@ const courseArr = [
             'My Implementation': 'https://github.com/katayoon-rb/Practice-Python-with-100-Exercises',
             'The Course': 'https://www.udemy.com/course/python-video-workbook/',
         },
-        'Tags': ['python'],
+        'Tags': ['Python'],
         'End': '1 Nov, 2023'
     },
     {
@@ -473,7 +491,7 @@ const courseArr = [
             'My Implementation': 'https://katyfrontendmentorchallenges.netlify.app/',
             'The Site': 'https://shorturl.at/xyzP1'
         },
-        'Tags': ['html', 'css', 'javascript'],
+        'Tags': ['HTML', 'CSS', 'JavaScript'],
         'End': ''
     },
     {
@@ -482,7 +500,7 @@ const courseArr = [
         'Links': {
             'The Course': 'https://www.udemy.com/course/understand-nodejs/'
         },
-        'Tags': ['node.js'],
+        'Tags': ['Node.js'],
         'End': '1 Nov, 2023'
     },
     {
@@ -492,7 +510,7 @@ const courseArr = [
             'My Implementation': 'https://github.com/katayoon-rb/Programming-Skills-leetcode/',
             'The Site': 'https://leetcode.com/studyplan/programming-skills/'
         },
-        'Tags': ['javascript'],
+        'Tags': ['JavaScript'],
         'End': '1 Nov, 2023'
     },
     {
@@ -501,7 +519,7 @@ const courseArr = [
         'Links': {
             'The Course': 'https://www.udemy.com/course/flexbox-tutorial/',
         },
-        'Tags': ['css'],
+        'Tags': ['CSS'],
         'End': '23 Oct, 2023'
     },
     {
@@ -511,7 +529,7 @@ const courseArr = [
             'My Implementation': 'https://katy50projects50days.netlify.app/',
             'The Course': 'https://www.udemy.com/course/50-projects-50-days/'
         },
-        'Tags': ['html', 'css', 'javascript'],
+        'Tags': ['HTML', 'CSS', 'JavaScript'],
         'End': '6 Oct, 2023'
     },
     {
@@ -520,7 +538,7 @@ const courseArr = [
         'Links': {
             'The Book': 'https://javascript.Info/'
         },
-        'Tags': ['javascript'],
+        'Tags': ['JavaScript'],
         'End': 'Dec 2022'
     },
     {
@@ -530,7 +548,7 @@ const courseArr = [
             'My Implementation': 'https://katayoon-rb.github.io/Fronend-Path-Scrimba/',
             'The Course': 'https://scrimba.com/learn/frontend'
         },
-        'Tags': ['css', 'javascript', 'react'],
+        'Tags': ['CSS', 'JavaScript', 'React'],
         'End': '14 Oct, 2022'
     }
 ]
