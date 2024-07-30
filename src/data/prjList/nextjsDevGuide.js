@@ -2,17 +2,17 @@ const nextjsDevGuidePrj = [
   {
     name: "CloudCorp",
     link: "https://katycloudcorp.vercel.app/",
-    lan: ["typescript", "react", "next.js"],
+    lan: ["TypeScript", "React", "Next.js"],
   },
   {
     name: "Snippets",
     link: "https://katysnippets.vercel.app/",
-    lan: ["typescript", "react", "next.js"],
+    lan: ["TypeScript", "React", "Next.js"],
   },
   {
     name: "DevDiscuss",
     link: "https://katydiscuss.vercel.app/",
-    lan: ["typescript", "react", "next.js"],
+    lan: ["TypeScript", "React", "Next.js"],
   },
 ];
 
