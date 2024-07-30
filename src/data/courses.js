@@ -4,7 +4,7 @@ const courseArr = [
     //     'Info': '',
     //     'Links': {
     //         'My Implementation': '',
-    //         'The Course': '',
+    //         'Original Course': '',
     //         'The Site': '',
     //         'The Book': ''
     //     },
@@ -50,7 +50,7 @@ const courseArr = [
         'Title': 'Advanced SQL',
         'Info': 'Take your SQL skills to the next level.',
         'Links': {
-            'The Course': 'https://www.kaggle.com/learn/advanced-sql',
+            'Original Course': 'https://www.kaggle.com/learn/advanced-sql',
         },
         'Tags': ['SQL'],
         'End': '30 Jul, 2024'
@@ -59,7 +59,7 @@ const courseArr = [
         'Title': 'Intro to SQL',
         'Info': 'Learn SQL for working with databases, using Google BigQuery.',
         'Links': {
-            'The Course': 'https://www.kaggle.com/learn/intro-to-sql',
+            'Original Course': 'https://www.kaggle.com/learn/intro-to-sql',
         },
         'Tags': ['SQL'],
         'End': '29 Jul, 2024'
@@ -69,7 +69,7 @@ const courseArr = [
         'Info': 'Build complex & engaging Vue apps with Nuxt3.',
         'Links': {
             'My Implementation': 'https://katynuxtbootcamp.vercel.app/',
-            'The Course': 'https://www.udemy.com/course/the-nuxt-3-bootcamp-the-complete-developer-guide',
+            'Original Course': 'https://www.udemy.com/course/the-nuxt-3-bootcamp-the-complete-developer-guide',
         },
         'Tags': ['Nuxt.js'],
         'End': '25 Jul, 2024'
@@ -79,7 +79,7 @@ const courseArr = [
         'Info': 'Learn how to build web applications and websites with Python and the Django framework',
         'Links': {
             'My Implementation': 'https://katydjangoblog.vercel.app/',
-            'The Course': 'https://www.udemy.com/course/python-django-the-practical-guide/',
+            'Original Course': 'https://www.udemy.com/course/python-django-the-practical-guide/',
         },
         'Tags': ['Python', 'Django'],
         'End': '5 Jul, 2024'
@@ -89,7 +89,7 @@ const courseArr = [
         'Info': 'Learn Django from scratch and from an industry expert by building real-world apps.',
         'Links': {
             'My Implementation': 'https://github.com/katayoon-rb/Django-Bootcamp',
-            'The Course': 'https://zerotomastery.io/courses/django-bootcamp/',
+            'Original Course': 'https://zerotomastery.io/courses/django-bootcamp/',
         },
         'Tags': ['Django'],
         'End': '2 Jul, 2024'
@@ -99,7 +99,7 @@ const courseArr = [
         'Info': 'Learn how to use the HTMX library to extend HTML and write simple yet powerful code.',
         'Links': {
             'My Implementation': 'https://github.com/katayoon-rb/HTMX-Practical-Guide',
-            'The Course': 'https://www.udemy.com/course/htmx-the-practical-guide/'
+            'Original Course': 'https://www.udemy.com/course/htmx-the-practical-guide/'
         },
         'Tags': ['HTMX'],
         'End': '26 Jun, 2024'
@@ -109,7 +109,7 @@ const courseArr = [
         'Info': 'A quick, fun, and hands-on introduction to web development.',
         'Links': {
             'My Implementation': 'https://katyfullstack.vercel.app/',
-            'The Course': 'https://www.udemy.com/course/full-stack-crash-course/',
+            'Original Course': 'https://www.udemy.com/course/full-stack-crash-course/',
         },
         'Tags': ['HTML', 'CSS', 'JavaScript', 'React'],
         'End': '25 Jun, 2024'
