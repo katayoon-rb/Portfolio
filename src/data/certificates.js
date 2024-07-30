@@ -19,6 +19,36 @@ let certificatesArr = [
         'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/NodeJs.jpg?raw=true',
         'link': 'https://www.udemy.com/certificate/UC-2caf8b66-0358-42f8-bc0b-e5a1c176a308/'
     },
+    {
+        'name': 'Intro to SQL - Kaggle',
+        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Intro-SQL.png?raw=true',
+        'link': ''
+    },
+    {
+        'name': 'Advanced SQL - Kaggle',
+        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Advanced-SQL.png?raw=true',
+        'link': ''
+    },
+    {
+        'name': 'Javascript (Basic) - HackerRank',
+        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Javascript_Basic.jpg?raw=true',
+        'link': 'https://www.hackerrank.com/certificates/a8c30f68a3d5'
+    },
+    {
+        'name': 'Javascript (Advanced) - HackerRank',
+        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Javascript_Intermediate.jpg?raw=true',
+        'link': 'https://www.hackerrank.com/certificates/a4802c8fe974'
+    },
+    {
+        'name': 'SQL (Basic) - HackerRank',
+        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/SQL_Basic.jpg?raw=true',
+        'link': 'https://www.hackerrank.com/certificates/c46a36606303'
+    },
+    {
+        'name': 'SQL (Intermediate) - HackerRank',
+        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/SQL_Intermediate.jpg?raw=true',
+        'link': 'https://www.hackerrank.com/certificates/085520850738'
+    },
 ]
 
 export default certificatesArr
