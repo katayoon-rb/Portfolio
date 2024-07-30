@@ -58,7 +58,7 @@ for (let i = 1; i < 50 + 1; i++) {
     c50prjIn50daysPrj.push({
         'name': prjs[i - 1],
         'link': `https://katy50projects50days.netlify.app/${day} ${prjs[i - 1]}/index.html`,
-        'lan': ['html', 'css', 'javascript']
+        'lan': ['HTML', 'CSS', 'JavaScript']
     })
 }
 
