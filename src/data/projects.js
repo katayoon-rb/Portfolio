@@ -33,151 +33,151 @@ ProjectsArr.push(
     {
         'name': 'Django Bootcamp',
         'link': `https://github.com/katayoon-rb/Django-Bootcamp/tree/main`,
-        'lan': ['html', 'css', 'django', 'python']
+        'lan': ['HTML', 'CSS', 'Django', 'Python']
     },
     {
         'name': 'Django Blog',
         'link': `https://katydjangoblog.vercel.app/`,
-        'lan': ['html', 'css', 'django', 'python']
+        'lan': ['HTML', 'CSS', 'Django', 'Python']
     },
     {
         'name': 'Today I Learned',
         'link': `https://katyfullstack.vercel.app/`,
-        'lan': ['html', 'css', 'javascript', 'react']
+        'lan': ['HTML', 'CSS', 'JavaScript', 'React']
     },
     {
         'name': 'Angular Material Demo',
         'link': `https://katyangularmaterial.vercel.app/`,
-        'lan': ['angular']
+        'lan': ['Angular']
     },
     {
         'name': 'Angular University Courses Page',
         'link': `https://katyangularunicourses.vercel.app/`,
-        'lan': ['angular']
+        'lan': ['Angular']
     },
     {
         'name': 'Recipe Book',
         'link': `https://katyangularrecipebook.vercel.app/`,
-        'lan': ['angular', 'bootstrap']
+        'lan': ['Angular', 'Bootstrap']
     },
     {
         'name': 'OpenTable',
         'link': `https://katyopentablenextjs.vercel.app/ `,
-        'lan': ['typescript', 'next.js']
+        'lan': ['TypeScript', 'Next.js']
     },
     {
         'name': 'DevFlow',
         'link': `https://katydevflow.vercel.app/`,
-        'lan': ['html', 'css', 'tailwind', 'typescript', 'next.js']
+        'lan': ['HTML', 'CSS', 'Tailwind', 'TypeScript', 'Next.js']
     },
     {
         'name': 'Ultimate Java Mastery',
         'link': `https://github.com/katayoon-rb/Ultimate-Java-Mastery`,
-        'lan': ['java']
+        'lan': ['Java']
     },
     {
         'name': 'Java Bootcamp ZeroToMastery',
         'link': `https://github.com/katayoon-rb/Java-Bootcamp-ZeroToMastery`,
-        'lan': ['java']
+        'lan': ['Java']
     },
     {
         'name': 'Java Bootcamp',
         'link': `https://github.com/katayoon-rb/Java-Bootcamp`,
-        'lan': ['java']
+        'lan': ['Java']
     },
     {
         'name': 'Design Patterns in Js',
         'link': `https://github.com/katayoon-rb/Design-Patterns-in-Js`,
-        'lan': ['javascript', 'design-pattern']
+        'lan': ['JavaScript']
     },
 
     {
         'name': 'MeetUs',
         'link': `https://katysveltejs.netlify.app/course%20project/public/`,
-        'lan': ['html', 'css', 'javascript', 'tailwind', 'svelte']
+        'lan': ['HTML', 'CSS', 'JavaScript', 'Tailwind', 'Svelte.js']
     },
 
     {
         'name': 'Small Svelte Projects',
         'link': `https://katysveltejs.netlify.app/`,
-        'lan': ['html', 'css', 'javascript', 'tailwind', 'svelte']
+        'lan': ['HTML', 'CSS', 'JavaScript', 'Tailwind', 'Svelte.js']
     },
     {
         'name': 'Ultimate Design Pattern',
         'link': `https://github.com/katayoon-rb/70-JavaScript-Challenges`,
-        'lan': ['java', 'design-pattern']
+        'lan': ['Java']
     },
     {
         'name': '70 JavaScript Challenges',
         'link': `https://github.com/katayoon-rb/70-JavaScript-Challenges`,
-        'lan': ['javascript']
+        'lan': ['JavaScript']
     },
     {
         'name': 'Tailwind CSS - Zero to Hero',
         'link': 'https://katytailwindzerotohero.netlify.app/',
-        'lan': ['html', 'css', 'javascript', 'tailwind']
+        'lan': ['HTML', 'CSS', 'JavaScript', 'Tailwind']
     },
     {
         'name': 'The Python Bible',
         'link': 'https://github.com/katayoon-rb/The-Python-Bible',
-        'lan': ['python']
+        'lan': ['Python']
     },
 
     {
         'name': 'Dashboard',
         'link': 'https://katytailwindcss.netlify.app/dashboard/public/',
-        'lan': ['html', 'css', 'javascript', 'tailwind']
+        'lan': ['HTML', 'CSS', 'JavaScript', 'Tailwind']
     },
     {
         'name': 'Real Estate',
         'link': 'https://katytailwindcss.netlify.app/real%20estate/public/',
-        'lan': ['html', 'css', 'javascript', 'tailwind']
+        'lan': ['HTML', 'CSS', 'JavaScript', 'Tailwind']
     },
 
     {
         'name': 'Python and Django Full Stack Bootcamp',
         'link': 'https://github.com/katayoon-rb/Python-and-Django-Full-Stack-Bootcamp/',
-        'lan': ['html', 'css', 'python', 'javascript', 'bootstrap']
+        'lan': ['HTML', 'CSS', 'Python', 'JavaScript', 'Bootstrap']
     },
     {
         'name': 'CS50p Harvard',
         'link': 'https://github.com/katayoon-rb/CS50p-Course/',
-        'lan': ['python']
+        'lan': ['Python']
     },
     {
         'name': 'Understanding TypeScript',
         'link': 'https://github.com/katayoon-rb/Understanding-TypeScript',
-        'lan': ['html', 'css', 'typescript']
+        'lan': ['HTML', 'CSS', 'TypeScript']
     },
     {
         'name': '30 Days of JavaScript Leetcode',
         'link': `https://github.com/katayoon-rb/30-Days-of-JavaScript-leetcode`,
-        'lan': ['javascript']
+        'lan': ['JavaScript']
     },
     {
         'name': 'CS50x Harvard',
         'link': 'https://github.com/katayoon-rb/CS50x-Course/',
-        'lan': ['html', 'c', 'css', 'python', 'javascript']
+        'lan': ['HTML', 'C', 'CSS', 'Python', 'JavaScript']
     },
     {
         'name': 'CSS Battle',
         'link': 'https://katycssbattle.netlify.app/',
-        'lan': ['html', 'css']
+        'lan': ['HTML', 'CSS']
     },
     {
         'name': '100 Days CSS Challenge',
         'link': 'https://katy100dayscss.netlify.app/',
-        'lan': ['html', 'css']
+        'lan': ['HTML', 'CSS']
     },
     {
         'name': 'Practice Python with 100 Exercises',
         'link': 'https://github.com/katayoon-rb/Practice-Python-with-100-Exercises',
-        'lan': ['python']
+        'lan': ['Python']
     },
     {
         'name': 'Programming Skills leetcode',
         'link': `https://github.com/katayoon-rb/Programming-Skills-leetcode/`,
-        'lan': ['javascript']
+        'lan': ['JavaScript']
     }
 )
 
