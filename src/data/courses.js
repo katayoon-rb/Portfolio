@@ -47,6 +47,15 @@ const courseArr = [
 
     // FINISHED 
     {
+        'Title': 'Python',
+        'Info': 'Learn the most important language for data science.',
+        'Links': {
+            'Original Course': 'https://www.kaggle.com/learn/python',
+        },
+        'Tags': ['Python'],
+        'End': '31 Jul, 2024'
+    },
+    {
         'Title': 'Advanced SQL',
         'Info': 'Take your SQL skills to the next level.',
         'Links': {
