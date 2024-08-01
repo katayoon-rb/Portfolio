@@ -64,6 +64,11 @@ let certificatesArr = [
         'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Python.png?raw=true',
         'link': ''
     },
+    {
+        'name': 'Machine Learning - Kaggle',
+        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Machine_Learning.png?raw=true',
+        'link': ''
+    },
 ]
 
 export default certificatesArr
