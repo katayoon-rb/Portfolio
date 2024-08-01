@@ -20,32 +20,32 @@ let certificatesArr = [
         'link': 'https://www.udemy.com/certificate/UC-2caf8b66-0358-42f8-bc0b-e5a1c176a308/'
     },
     {
-        'name': 'Javascript (Basic) - HackerRank',
+        'name': 'Basic Javascript - HackerRank',
         'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Javascript_Basic.jpg?raw=true',
         'link': 'https://www.hackerrank.com/certificates/a8c30f68a3d5'
     },
     {
-        'name': 'Javascript (Advanced) - HackerRank',
+        'name': 'Advanced Javascript - HackerRank',
         'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Javascript_Intermediate.jpg?raw=true',
         'link': 'https://www.hackerrank.com/certificates/a4802c8fe974'
     },
     {
-        'name': 'SQL (Basic) - HackerRank',
+        'name': 'Basic SQL - HackerRank',
         'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/SQL_Basic.jpg?raw=true',
         'link': 'https://www.hackerrank.com/certificates/c46a36606303'
     },
     {
-        'name': 'SQL (Intermediate) - HackerRank',
+        'name': 'Intermediate SQL - HackerRank',
         'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/SQL_Intermediate.jpg?raw=true',
         'link': 'https://www.hackerrank.com/certificates/085520850738'
     },
     {
-        'name': 'Python (Basic) - HackerRank',
+        'name': 'Python - HackerRank',
         'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Python_Basic.jpg?raw=true',
         'link': 'https://www.hackerrank.com/certificates/cae6dc56381c'
     },
     {
-        'name': 'React (Basic) - HackerRank',
+        'name': 'React - HackerRank',
         'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/React_Basic.jpg?raw=true',
         'link': 'https://www.hackerrank.com/certificates/7a286a5a62cf'
     },
