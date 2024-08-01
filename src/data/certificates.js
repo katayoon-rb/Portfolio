@@ -40,6 +40,16 @@ let certificatesArr = [
         'link': 'https://www.hackerrank.com/certificates/085520850738'
     },
     {
+        'name': 'Python (Basic) - HackerRank',
+        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Python_Basic.jpg?raw=true',
+        'link': 'https://www.hackerrank.com/certificates/cae6dc56381c'
+    },
+    {
+        'name': 'React (Basic) - HackerRank',
+        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/React_Basic.jpg?raw=true',
+        'link': 'https://www.hackerrank.com/certificates/7a286a5a62cf'
+    },
+    {
         'name': 'Intro to SQL - Kaggle',
         'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Intro-SQL.png?raw=true',
         'link': ''
