@@ -51,12 +51,12 @@ let certificatesArr = [
     },
     {
         'name': 'Intro to SQL - Kaggle',
-        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Intro-SQL.png?raw=true',
+        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Intro_SQL.png?raw=true',
         'link': ''
     },
     {
         'name': 'Advanced SQL - Kaggle',
-        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Advanced-SQL.png?raw=true',
+        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Advanced_SQL.png?raw=true',
         'link': ''
     },
     {
