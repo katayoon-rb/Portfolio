@@ -45,6 +45,11 @@ let certificatesArr = [
         'link': 'https://www.hackerrank.com/certificates/cae6dc56381c'
     },
     {
+        'name': 'Java - HackerRank',
+        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Java_Basic.jpg?raw=true',
+        'link': 'https://www.hackerrank.com/certificates/1f2c78548370'
+    },
+    {
         'name': 'React - HackerRank',
         'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/React_Basic.jpg?raw=true',
         'link': 'https://www.hackerrank.com/certificates/7a286a5a62cf'
