@@ -50,6 +50,11 @@ let certificatesArr = [
         'link': 'https://www.hackerrank.com/certificates/7a286a5a62cf'
     },
     {
+        'name': 'Frontend Developer (React) - HackerRank',
+        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Frontend.jpg?raw=true',
+        'link': 'https://www.hackerrank.com/certificates/dedb864c29fe'
+    },
+    {
         'name': 'Intro to SQL - Kaggle',
         'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Intro_SQL.png?raw=true',
         'link': ''
