@@ -89,6 +89,11 @@ let certificatesArr = [
         'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Intermediate_Machine_Learning.png?raw=true',
         'link': ''
     },
+    {
+        'name': 'Deep Learning - Kaggle',
+        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Deep_Learning.png?raw=true',
+        'link': ''
+    },
 ]
 
 export default certificatesArr
