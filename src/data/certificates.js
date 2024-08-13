@@ -94,6 +94,11 @@ let certificatesArr = [
         'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Deep_Learning.png?raw=true',
         'link': ''
     },
+    {
+        'name': 'Computer Vision - Kaggle',
+        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Computer_Vision.png?raw=true',
+        'link': ''
+    },
 ]
 
 export default certificatesArr
