@@ -47,6 +47,15 @@ const courseArr = [
 
     // FINISHED 
     {
+        'Title': 'Computer Vision',
+        'Info': 'Build convolutional neural networks with TensorFlow and Keras.',
+        'Links': {
+            'Original Course': 'https://www.kaggle.com/learn/computer-vision',
+        },
+        'Tags': ['Python', 'Machine Learning'],
+        'End': '13 Aug, 2024'
+    },
+    {
         'Title': 'Intro to Deep Learning',
         'Info': 'Use TensorFlow and Keras to build and train neural networks for structured data.',
         'Links': {
