@@ -104,6 +104,11 @@ let certificatesArr = [
         'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Machine_Learning_Explainability.png?raw=true',
         'link': ''
     },
+    {
+        'name': 'Data Cleaning - Kaggle',
+        'image': 'https://github.com/katayoon-rb/Portfolio/blob/main/src/images/Data_Cleaning.png?raw=true',
+        'link': ''
+    },
 ]
 
 export default certificatesArr
